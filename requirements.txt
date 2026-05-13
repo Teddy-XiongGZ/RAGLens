@@ -7,3 +7,8 @@ huggingface_hub==0.34.4
 datasets==3.0.0
 python-liquid==1.10.2
 vllm==0.10.1.1
+natsort
+einops
+schedulefree
+simple-parsing
+accelerate
